@@ -1,0 +1,8 @@
+a-ignorer.txt
+
+build
+config.txt
+**/configs
+*exe
+temp*
+bin/*.exe
